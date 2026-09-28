@@ -1,8 +1,12 @@
 
+
 const HomePage = () => {
+
+
   return (
     <div>
       SpiceUp home page
+
     </div>
   );
 };
